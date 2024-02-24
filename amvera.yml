@@ -7,6 +7,6 @@ build:
   artifacts:
     '*': /
 run:
-  scriptName: https://github.com/Mikhail-Pautov/amvera-test/blob/master/index.js
+  scriptName: index.js
   persistenceMount: /data
   containerPort: 4444
